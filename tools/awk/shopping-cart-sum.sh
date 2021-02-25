@@ -1,0 +1,1 @@
+awk -f ./non-empty-lines ./shopping-cart.csv | awk -f ./shopping-cart-sum.awk -F,
