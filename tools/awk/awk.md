@@ -1,6 +1,7 @@
 # AWK
 
 ## Docs
+
 - [Main docs](https://www.gnu.org/software/gawk/manual/html_node/index.html#SEC_Contents)
 
 ## Input
@@ -16,6 +17,7 @@
 - `awk -F, { print $2 } ./file.csv`
 
 ## Misc
+
 - NF -> Number of fields
 - OFS -> Output field separator
 - ORS -> Output record separator (?)
