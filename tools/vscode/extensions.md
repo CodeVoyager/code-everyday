@@ -10,6 +10,7 @@
 - [To Do Tasks](https://github.com/sandy081/vscode-todotasks)
 - [Vim](https://github.com/VSCodeVim/Vim.git)
 - [vscode-icons](https://github.com/vscode-icons/vscode-icons)
+- [shell format](https://github.com/foxundermoon/vs-shell-format.git)
 
 # VS Code Themes
 
