@@ -1,4 +1,4 @@
 #!/bin/bash
 
-l="ls -lah" # display more human readable info
-ll="ls -latr" # more info ordered by modification date ASC
+alias l="ls -lah" # display more human readable info
+alias ll="ls -latr" # more info ordered by modification date ASC
