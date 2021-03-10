@@ -1,4 +1,28 @@
 #!/bin/bash
 
+# Filesystem
+
 alias l="ls -lah" # display more human readable info
 alias ll="ls -latr" # more info ordered by modification date ASC
+alias mkd="mkdir -pv" # creating directories
+
+vf() { fzf | xargs -r -I % $EDITOR % ;}
+
+# Git
+
+alias gmm="git merge master"
+alias g="git"
+alias v="nvim"
+
+# System
+
+alias sdn="sudo shutdown -h now" # shutdown system
+alias ka="killall"
+
+# Misc
+
+alias yt="youtube-dl --add-metadata -i -o '%(upload_date)s-%(title)s.%(ext)s'"
+alias yta="yt -x -f bestaudio/best"
+alias wy="mpv --ytdl-format=\"bestvideo[height<=?480]+bestaudio/best\"" # watch YouTube Video
+alias ly="mpv --ytdl-format=\"bestaudio\"" # listen audio track of YouTube video
+
