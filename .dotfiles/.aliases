@@ -1,28 +1,44 @@
 #!/bin/bash
 
+# Vim
+alias v="nvim"
+
 # Filesystem
 
-alias l="ls -lah" # display more human readable info
-alias ll="ls -latr" # more info ordered by modification date ASC
+alias l="ls -lah"     # display more human readable info
+alias ll="ls -latr"   # more info ordered by modification date ASC
 alias mkd="mkdir -pv" # creating directories
+alias map="xargs -n1"
 
-vf() { fzf | xargs -r -I % $EDITOR % ;}
+vf() { fzf | xargs -r -I % $EDITOR %; }
 
 # Git
 
 alias gmm="git merge master"
 alias g="git"
-alias v="nvim"
+alias gu="git push"
+alias gp="git pull"
+alias gb="git checkout -b "
+
+# SSH
+
+alias pbk="more ~/.ssh/id_ed25519.pub | xclip -selection clipboard | echo '=> Public key copied to pasteboard.'"
+alias pvk="more ~/.ssh/id_ed25519 | xclip -selection clipboard | echo '=> Private key copied to pasteboard.'"
+
+# History
+
+alias hf="history | grep "
 
 # System
 
+alias sudo="sudo "
 alias sdn="sudo shutdown -h now" # shutdown system
 alias ka="killall"
+alias hosts='sudo v /etc/hosts'
 
 # Misc
 
 alias yt="youtube-dl --add-metadata -i -o '%(upload_date)s-%(title)s.%(ext)s'"
 alias yta="yt -x -f bestaudio/best"
 alias wy="mpv --ytdl-format=\"bestvideo[height<=?480]+bestaudio/best\"" # watch YouTube Video
-alias ly="mpv --ytdl-format=\"bestaudio\"" # listen audio track of YouTube video
-
+alias ly="mpv --ytdl-format=\"bestaudio\""                              # listen audio track of YouTube video
