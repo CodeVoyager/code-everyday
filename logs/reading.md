@@ -5,4 +5,4 @@
 - 15.03.2021 - "Mostly adequate(...)": Chapters 7-8
 - 16.03.2021 - "Mostly adequate(...)": Chapters 8
 - 17.03.2021 - "Mostly adequate(...)": Chapters 9
-
+- 19.03.2021 - "Mostly adequate(...)": Chapters 10
