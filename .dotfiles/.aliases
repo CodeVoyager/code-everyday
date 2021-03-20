@@ -42,10 +42,14 @@ alias hosts='sudo v /etc/hosts'
 
 # Misc
 
+# watch YouTube Video
+function wy() {
+  mpv --ytdl-format="bestvideo[height<=?$1]+bestaudio/best" --demuxer-max-bytes="50M" --demuxer-max-back-bytes="10M" "$2"
+}
+
 alias yt="youtube-dl --add-metadata -i -o '%(upload_date)s-%(title)s.%(ext)s'"
 alias yta="yt -x -f bestaudio/best"
-alias wy="mpv --ytdl-format=\"bestvideo[height<=?480]+bestaudio/best\"" # watch YouTube Video
-alias ly="mpv --ytdl-format=\"bestaudio\""                              # listen audio track of YouTube video
+alias ly="mpv --ytdl-format=\"bestaudio\"  --demuxer-max-bytes=\"50M\" --demuxer-max-back-bytes=10M "                              # listen audio track of YouTube video
 
 # NPM
 
