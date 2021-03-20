@@ -17,8 +17,12 @@ vf() { fzf | xargs -r -I % $EDITOR %; }
 alias gmm="git merge master"
 alias g="git"
 alias gu="git push"
+alias ga="git add"
 alias gp="git pull"
 alias gb="git checkout -b "
+alias gl="git log --graph"
+alias gln="git log --graph -n "
+alias gd="git reset --hard HEAD"
 
 # SSH
 
@@ -42,3 +46,10 @@ alias yt="youtube-dl --add-metadata -i -o '%(upload_date)s-%(title)s.%(ext)s'"
 alias yta="yt -x -f bestaudio/best"
 alias wy="mpv --ytdl-format=\"bestvideo[height<=?480]+bestaudio/best\"" # watch YouTube Video
 alias ly="mpv --ytdl-format=\"bestaudio\""                              # listen audio track of YouTube video
+
+# NPM
+
+alias nr='npm run'
+alias ni='npm install -S '
+alias nid='npm install -D '
+alias nu='npm uninstall '
