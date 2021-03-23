@@ -8,4 +8,5 @@
 - 19.03.2021 - "Mostly adequate(...)": Chapters 10
 - 19.03.2021 - `io-ts` source code
 - 22.03.2021 - "Mostly adequate(...)": Chapters 11
+- 23.03.2021 - "Mostly adequate(...)": Chapters 12
 
