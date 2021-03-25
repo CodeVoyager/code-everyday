@@ -10,4 +10,5 @@
 - 22.03.2021 - "Mostly adequate(...)": Chapters 11
 - 23.03.2021 - "Mostly adequate(...)": Chapters 12
 - 24.03.2021 - "Mostly adequate(...)": Chapters 12
+- 25.03.2021 - "Mostly adequate(...)": Chapters 13
 
