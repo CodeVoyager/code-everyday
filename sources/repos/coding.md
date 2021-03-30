@@ -8,3 +8,6 @@
 
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
+## Testing
+
+- [JS & Node.js testing practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
