@@ -9,3 +9,8 @@
 ## Security
 
 - [OWASP Top 10 (2017)](https://owasp.org/www-pdf-archive/OWASP_Top_10-2017_(en).pdf.pdf)
+
+## FP
+
+- [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
+
