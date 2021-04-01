@@ -3,6 +3,7 @@
 ## Architecture
 
 - [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans#structural-design-patterns)
+- [DDD by examples](https://github.com/ddd-by-examples/library)
 
 ## Algorithms
 
