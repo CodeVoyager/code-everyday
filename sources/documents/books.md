@@ -5,6 +5,7 @@
 - [Less is More with Minimalist Architecture](http://www.bredemeyer.com/pdf_files/MinimalistArchitecture.PDF)
 - [Who needs Architect](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
 - [Code as Design: Three Essays by Jack W. Reeves](https://www.developerdotstar.com/mag/articles/PDF/DevDotStar_Reeves_CodeAsDesign.pdf)
+- [CQRS Documents by Greg Young](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
 
 ## Security
 

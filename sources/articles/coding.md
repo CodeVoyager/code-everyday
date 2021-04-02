@@ -4,6 +4,7 @@
 - [The Last Responsible Moment](https://blog.codinghorror.com/the-last-responsible-moment/)
 - [The Forgotten Layer of the Test Automation Pyramid](https://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid)
 - [Functors, applicatives, and friends](https://blog.ploeh.dk/2018/03/19/functors-applicatives-and-friends/)
+- [Race Conditions Don’t Exist](https://udidahan.com/2010/08/31/race-conditions-dont-exist/)
 
 ## TypeScript
 
