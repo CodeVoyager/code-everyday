@@ -13,4 +13,6 @@
 - 25.03.2021 - "Mostly adequate(...)": Chapters 13
 - 26.03.2021 - `io-ts` source code
 - 31.03.2021 - `io-ts` source code
+- 7.04.2021 - https://williamyaoh.com/posts/2020-07-12-deriving-state-monad.html
+- 7.04.2021 - `io-ts` source code
 
