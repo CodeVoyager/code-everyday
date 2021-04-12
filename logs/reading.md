@@ -15,4 +15,6 @@
 - 31.03.2021 - `io-ts` source code
 - 7.04.2021 - https://williamyaoh.com/posts/2020-07-12-deriving-state-monad.html
 - 7.04.2021 - `io-ts` source code
+- 12.03.2021 - https://williamyaoh.com/posts/2020-07-19-deriving-reader-monad.html
+- 12.03.2021 - Category Theory for programmers - Chapter 1
 
