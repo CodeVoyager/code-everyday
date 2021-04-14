@@ -18,4 +18,5 @@
 - 12.03.2021 - https://williamyaoh.com/posts/2020-07-19-deriving-reader-monad.html
 - 12.03.2021 - Category Theory for programmers - Chapter 1
 - 13.03.2021 - Category Theory for programmers - Chapter 1-2
+- 14.03.2021 - Category Theory for programmers - Chapter 3-4
 
