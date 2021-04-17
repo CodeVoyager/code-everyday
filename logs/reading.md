@@ -15,9 +15,9 @@
 - 31.03.2021 - `io-ts` source code
 - 7.04.2021 - https://williamyaoh.com/posts/2020-07-12-deriving-state-monad.html
 - 7.04.2021 - `io-ts` source code
-- 12.03.2021 - https://williamyaoh.com/posts/2020-07-19-deriving-reader-monad.html
-- 12.03.2021 - Category Theory for programmers - Chapter 1
-- 13.03.2021 - Category Theory for programmers - Chapter 1-2
-- 14.03.2021 - Category Theory for programmers - Chapter 3-4
-- 15.03.2021 - Category Theory for programmers - Chapter 4-5
-
+- 12.04.2021 - https://williamyaoh.com/posts/2020-07-19-deriving-reader-monad.html
+- 12.04.2021 - Category Theory for programmers - Chapter 1
+- 13.04.2021 - Category Theory for programmers - Chapter 1-2
+- 14.04.2021 - Category Theory for programmers - Chapter 3-4
+- 15.04.2021 - Category Theory for programmers - Chapter 4-5
+- 17.04.2021 - CQRS Documents by Greg Young
