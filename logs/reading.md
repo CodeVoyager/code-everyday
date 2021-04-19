@@ -21,3 +21,6 @@
 - 14.04.2021 - Category Theory for programmers - Chapter 3-4
 - 15.04.2021 - Category Theory for programmers - Chapter 4-5
 - 17.04.2021 - CQRS Documents by Greg Young
+- 19.04.2021 - Category Theory for programmers - Chapter 5
+- 19.04.2021 - `create-react-app` source code
+
